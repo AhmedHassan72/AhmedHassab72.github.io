@@ -18,11 +18,11 @@ Collaborated with a team of four to innovate a wireless, hand-mounted controller
 
 ## Images
 
-![PCB Design](/assets/images/projects/hand-controller/pcb-design.png)
+![PCB Design](/assets/images/capstone-main-board.png)
 
 Caption: PCB layout designed in Altium.
 
 ## Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wLwKgMBWhpY" frameborder="0" allowfullscreen></iframe>
 www.youtube.com

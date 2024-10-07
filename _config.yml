@@ -115,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ahmed Hassan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Electrical Engineer in Training"
+  location         : "Calgary, Alberta, Canada"
+  email            : "ahmdm98.ali@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -133,7 +133,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "GitHubh
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
